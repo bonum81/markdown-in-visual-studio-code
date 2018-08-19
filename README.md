@@ -59,6 +59,3 @@ To get even more power from Markdown editing in Visual Studio Code, you can also
 ---
 
 All right, that's all I can share for now. Have an awesome day!
-
-
-(This post was first appeared in my GitHub)
